@@ -1,1 +1,1 @@
-# NextJS-Recipes-App
+# Foodies App
