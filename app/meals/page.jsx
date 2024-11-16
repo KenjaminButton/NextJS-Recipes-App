@@ -3,6 +3,8 @@ import classes from './page.module.css'
 import Link from 'next/link'
 
 export default function MealsPage() {
+  
+
   return (
     <>
       <header className={classes.header}>
