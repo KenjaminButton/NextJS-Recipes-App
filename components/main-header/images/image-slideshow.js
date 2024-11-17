@@ -44,7 +44,8 @@ export default function ImageSlideshow() { // Defining the ImageSlideshow functi
         <Image
           key={index} // Unique key for each image element, using the index
           src={image.image} // Source of the image
-          className={index === currentImageIndex ? classes.active : ''} // Apply active class to the current image
+          // Apply active class to the current image
+          className={index === currentImageIndex ? classes.active : ''} 
           alt={image.alt} // Alternate text for the image
         />
       ))}
