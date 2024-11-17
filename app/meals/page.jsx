@@ -1,4 +1,4 @@
-import MealsGrid from '@/components/main-header/meals/meals-grid'
+import MealsGrid from '@/components/meals/meals-grid'
 import classes from './page.module.css'
 import Link from 'next/link'
 import { getMeals } from '@/lib/meals'
