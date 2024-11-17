@@ -39,7 +39,7 @@ export default function Home() {
             Fuji camera film recipes combine the technical capabilities of modern digital cameras with the timeless qualities of film. With detailed settings for parameters such as ISO, shutter speed, aperture, and unique film simulations like Velvia or Astia, you can achieve rich colors, beautiful grain, and dynamic range that evoke nostalgia.
           </p>
           <p>
-            Whether you're shooting portraits, landscapes, or street scenes, these recipes will help you express your artistic vision while connecting with a community of fellow photography enthusiasts passionate about the classic film aesthetic. Explore the possibilities with your Fuji camera and redefine your photography with the charm of film.
+            Whether you are shooting portraits, landscapes, or street scenes, these recipes will help you express your artistic vision while connecting with a community of fellow photography enthusiasts passionate about the classic film aesthetic. Explore the possibilities with your Fuji camera and redefine your photography with the charm of film.
           </p>
         </section>
       </main>
