@@ -4,7 +4,6 @@ import Link from 'next/link'
 import { getMeals } from '@/lib/meals'
 import { Suspense } from 'react'
 
-
 // This component will fetch the data
 async function Meals() {
   const meals = await getMeals()
@@ -13,8 +12,6 @@ async function Meals() {
 
 
 export default function MealsPage() {
-
-
   return (
     <>
       <header className={classes.header}>
